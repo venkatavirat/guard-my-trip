@@ -1,0 +1,25 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    background: #f4f4f4;
+}
+
+.container {
+    margin: 20px;
+}
+
+button {
+    padding: 10px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.sos {
+    background: red;
+    color: white;
+    font-weight: bold;
+}
+
+.red { color: red; }
+.yellow { color: orange; }
+.green { color: green; }
